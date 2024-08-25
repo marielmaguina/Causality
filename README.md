@@ -1,4 +1,4 @@
-# Granger_Causality_Transfer_Entropy
+# Causality
 Comparing Granger Causality and Transfer Entropy
 
 A comparative analysis of Granger Causality and Transfer Entropy to evaluate their effectiveness in detecting causality in time series data.
